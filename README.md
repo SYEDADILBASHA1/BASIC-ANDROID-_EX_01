@@ -22,8 +22,8 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 ```
 ## PROGRAM
-DEVELOPED BY : Challa Maheswar
-REGISTER NO: 212221040031
+DEVELOPED BY : Syed Adil Basha
+REGISTER NO: 212221043008
 MainActivity.java:
 
 package com.example.myfirstapp;
